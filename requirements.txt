@@ -1,5 +1,5 @@
-prometheus-client
-environs
-pybit
-pandas
-requests
+prometheus-client==0.21.1
+environs==11.2.1
+pybit== 5.8.0
+pandas==2.2.3
+requests== 2.32.3
