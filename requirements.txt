@@ -1,0 +1,5 @@
+prometheus-client
+environs
+pybit
+pandas
+requests
